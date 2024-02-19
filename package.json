@@ -6,6 +6,7 @@
   "author": "Stardust Song <6882971+ssghost@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
+    "@chainlink/contracts": "^0.8.0",
     "hardhat": "^2.20.1"
   },
   "devDependencies": {
